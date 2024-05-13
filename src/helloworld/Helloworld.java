@@ -9,6 +9,10 @@ package helloworld;
  * @author ✌️CHAHAL💪
  */
 public class Helloworld {
+    
+    Student s1= new student ();
+    s1.setname= ("Muskandeep");
+    
 
     /**
      * @param args the command line arguments
